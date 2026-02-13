@@ -1,5 +1,8 @@
 # NeonLaw Web
 
+![Swift 6.0](https://img.shields.io/badge/Swift-6.0-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-macOS%2015-blue.svg)
+
 A modern web application for Neon Law built with Hummingbird and Elementary.
 
 ## Overview
