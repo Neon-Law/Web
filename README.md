@@ -7,8 +7,7 @@ A modern web application for Neon Law built with Hummingbird and Elementary.
 
 ## Overview
 
-This is a Swift-based web application that serves the NeonLaw attorney directory
-service website. It uses:
+This is a Swift-based web application that serves the NeonLaw attorney directory service website. Built with modern Swift technologies:
 
 - **Hummingbird** - Modern Swift web framework
 - **Elementary** - Type-safe HTML rendering in Swift
