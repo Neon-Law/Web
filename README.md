@@ -29,6 +29,17 @@ This project is part of the [Trifecta](https://github.com/neon-law-foundation/Tr
 - **Independent deployment** - Each service can be versioned and deployed separately
 - **Focused development** - Smaller, more manageable codebases
 
+## What is a Matter?
+
+In legal terminology, a **matter** refers to a legal case, transaction, or representation that an attorney handles for a client. Each matter represents a distinct legal engagement and may include:
+
+- **Litigation cases** - Lawsuits, disputes, and court proceedings
+- **Transactional work** - Contracts, business formations, real estate closings
+- **Estate planning** - Wills, trusts, and probate matters
+- **Regulatory compliance** - Licensing, permits, and administrative proceedings
+
+In the Neon Law ecosystem, each matter is tracked as a Git repository in AWS CodeCommit, enabling version control and collaboration on legal documents, correspondence, and case materials.
+
 ## Features
 
 - Server-side rendered HTML using Elementary
